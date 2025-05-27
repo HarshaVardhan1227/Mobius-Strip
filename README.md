@@ -115,3 +115,5 @@ Compute Surface Area → Using partial derivatives & integration.
 Compute Edge Length → Using arc length integration.
 Visualize → 3D plot of the Mobius strip.
 Run Program → Compute properties & display results.
+
+![Image](https://github.com/user-attachments/assets/7fa1410c-0677-4349-a906-8311fd467a1c)
